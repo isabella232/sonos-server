@@ -11,7 +11,6 @@
   "dependencies": {
     "body-parser": "^1.14.2",
     "express": "^4.13.3",
-    "sonos": "^0.9.0",
-    "spark": "^1.0.0"
+    "sonos": "^0.9.0"
   }
 }
