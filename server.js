@@ -12,7 +12,7 @@ sonosModule.search(function(device) {
   app.use(bodyParser.urlencoded({ extended: true }));
   app.use(bodyParser.json());
 
-  var port = 8080;
+  var port = 8000;
 
   // ROUTES FOR OUR API
   // =============================================================================
